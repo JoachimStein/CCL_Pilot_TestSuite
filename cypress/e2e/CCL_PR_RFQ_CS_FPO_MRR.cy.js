@@ -154,7 +154,6 @@ pr_user_ids.forEach((user, index) => {
     })
 })
 
-
 rfq_user_ids.forEach((user, index) => {
     it(`User for Request For Quotation : ${user.role}`, () => {
         cy.viewport(1360, 760);
