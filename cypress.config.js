@@ -25,7 +25,10 @@ module.exports = defineConfig({
         '/home/stein/Pilot_TestSuite/cypress/e2e/CCL_PR_RFQ_NS_FPO_MRR.cy.js',
         '/home/stein/Pilot_TestSuite/cypress/e2e/CCL_PR_RFQ_NS_LPO_MRR.cy.js',
         '/home/stein/Pilot_TestSuite/cypress/e2e/CCL_MR_MI_MIR.cy.js',
-        '/home/stein/Pilot_TestSuite/cypress/e2e/CCL_Accounting_Journal.cy.js'
+        '/home/stein/Pilot_TestSuite/cypress/e2e/CCL_Accounting_Journal.cy.js',
+        '/home/stein/Pilot_TestSuite/cypress/e2e/CCL_Accounting_Payments.cy.js',
+        '/home/stein/Pilot_TestSuite/cypress/e2e/CCL_Accounting_Received.cy.js',
+        '/home/stein/Pilot_TestSuite/cypress/e2e/CCL_Accounting_Contra.cy.js'
       ]
       return config;
       // implement node event listeners here
